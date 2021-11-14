@@ -1,7 +1,7 @@
 # IRMoGA
 The source codes of 'Inferring Real Mobility in Presence of FakeCheck-ins Data' (IRMoGA)
 
-## Oeiginal Datasets
+## Original Datasets
 We conduct all experiments on two publicly available datasets: Foursquare and Gowalla.
 The source data can be downloaded from:
 <p>[1] Yang,  D.  Zhang,  V.  W.  Zheng,  and  Z.  Yu,  “Modeling  user  activitypreference by leveraging user spatial temporal characteristics in LBSNs,”IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 45,no. 1, pp. 129–142, 2014. </p>
