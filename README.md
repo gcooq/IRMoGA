@@ -20,7 +20,7 @@ The source data can be downloaded from:
 <p>#GPU RTX 3090 24G </p>
 
 ## Usage
-e.g., ======>>'python IRMoGA.py'
+e.g., ======>>'python IRMoGA_gw.py'
 
 ## Notes
 Any comments are appreciated.
