@@ -9,7 +9,7 @@ The source data can be downloaded from:
 
 <strong> **Notably, If you want to use our preprocessed data, please also cite thier great works.</strong>
 
-## Preprocessed Datasets
+## Our Datasets
 
 <p>'data'--->training and testing data</p>
 <p>'embeddings'--->POI embeddings</p>
