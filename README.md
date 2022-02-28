@@ -26,7 +26,7 @@ e.g., ======>>'python IRMoGA_gw.py'
 Any comments are appreciated.
 
 ## Cites
-Qiang Gao, Hongzhu Fu, Kunpeng Zhang, Goce Trajcevski, Xin Yang, Fan Zhou, "Inferring Real Mobility in Presence of FakeCheck-ins Data".
+Qiang Gao, Hongzhu Fu, Kunpeng Zhang, Goce Trajcevski, Xu Teng, Fan Zhou, "Inferring Real Mobility in Presence of FakeCheck-ins Data".
   
 
 
