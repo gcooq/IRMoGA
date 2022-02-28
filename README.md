@@ -9,6 +9,8 @@ The source data can be downloaded from:
 
 <strong> **Notably, If you want to use our preprocessed data, please also cite thier great works.</strong>
 
+<strong> **Notably, OSM and Yelp datastes are tackled by ourself.</strong>
+
 ## Our Datasets
 
 <p>'data'--->training and testing data</p>
